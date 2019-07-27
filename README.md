@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 ## Intoduction
+this is a simpl website project
 
 ## Purpose
 ## Deployment
